@@ -1,0 +1,6 @@
+# VoxelBridge Configuration
+server:
+  ip: "157.90.205.61"      # Put your FalixNodes IP address here
+  port: 23627                # Put your FalixNodes Java Port here
+proxy:
+  port: 10000                  # Render forces web services to route on port 10000 or via $PORT
